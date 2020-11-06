@@ -1,0 +1,24 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+}
+.header{
+	width: 100%;
+	height: 60px;
+	display: block;
+	background-color:  #27ae60 ;
+}
+.logo_container{
+	height: 100%;
+	display: table;
+	float: center;
+}
+.logo_container h1{
+	color: black;
+	height: 100%;
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+}
